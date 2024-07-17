@@ -69,3 +69,5 @@ void removeProduct(): Remove products from the stock.
 Notes
 Make sure to run the program in an environment that supports conio.h for input handling.
 The stock data is stored in a binary file shop.dat for persistence.
+
+<img src="https://t.bkit.co/w_6697ad8cd15b2.gif" />
